@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: swimming
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alpTokat.alpTokat)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpTokat&show_icons=true)
