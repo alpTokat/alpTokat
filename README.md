@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alpTokat.alpTokat)
 
-
-<p align='center'>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpTokat&show_icons=true)
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpTokat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
