@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: from contact in profil
 - ⚡ Fun fact: swimming
 
-https://visitor-badge.deta.dev/badge?page_id=alpTokat.alpTokat
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=alpTokat.alpTokat)
