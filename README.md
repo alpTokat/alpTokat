@@ -16,3 +16,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alpTokat&layout=compact)](https://github.com/anuraghazra/github-readme-stats?style=centerme)
+<a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/59433203/201469240-9a2a5995-5327-4267-a873-c294279ef79f.png" alt="Python" width="40" height="40"/> </a>
