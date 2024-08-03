@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Alp</h1>
 <h3 align="center">open to learning mobile developer</h3>
 
-- 🔭 I’m currently working on **android studio**
+- 🔭 I’m currently working on **Android Studio**
 
-- 🌱 I’m currently learning **native android with kotlin**
+- 🌱 I’m currently learning **Native Android Development With Kotlin**
 
-- 💬 Ask me about **kotlin and android studio**
+- 💬 Ask me about **Kotlin and Android Studio**
 
 - 📫 How to reach me **alp-tokat@hotmail.com**
 
