@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Alp</h1>
-<h3 align="center">open to learning mobile developer</h3>
+<h3 align="center">An Android developer who is constantly learning</h3>
 
 - 🔭 I’m currently working on **Android Studio**
 
